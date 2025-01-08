@@ -1,3 +1,3 @@
 chcp 1254
-cd C:\Users\%USERNAME%\Documents\Hidden
+cd C:\Windows\System32\Tools
 service.exe service.sys
